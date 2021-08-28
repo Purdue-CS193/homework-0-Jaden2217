@@ -17,7 +17,21 @@ I was a three-year varsity basketball starter at Terre Haute South Highschool. I
 [Image link](https://user-images.githubusercontent.com/89425796/131229154-88e89465-924c-4def-b41a-a3b478fe5735.png)
 
 ### CS Experience and Goals
-Throughout my childhood and early adulthood I have always found computer programming fascinating, and I yearned to be that guy that made the crazy popular app that just came out or that made some type of technology that truly impacted the world. Following this passion, I decided to look over a programming course for a few weeks over one summer and it was very interesting, but that is where my coding experience stops. I hope to learn even more about CS now that I am at Purdue and actually work on projects that may one day change the world. In terms of the present, my goal is to learn as much as possible, form great connections, and challenge myself enough to where I can set myself up for a great job out of college or even an ability to start my own business with the knowledge I gain. CS is a super interesting major and I'm hoping it has no limit to where it can take me as long as I apply myself and truly learn as much as possible here in college. 
+Throughout my childhood and early adulthood I have always found computer programming fascinating, and I yearned to be that guy that made the crazy popular app that just came out or that made some type of technology that truly impacted the world. Following this passion, I decided to look over a programming course for a few weeks over one summer and it was very interesting, but that is where my coding experience stops. I hope to learn even more about CS now that I am at Purdue and actually work on projects that may one day change the world. In terms of the present, my goal is to learn as much as possible, form great connections, and challenge myself enough to where I can set myself up for a great job out of college or even an ability to start my own business with the knowledge I gain. CS is a super interesting major and I'm hoping it has no limit to where it can take me as long as I apply myself and truly learn as much as possible here in college.
+
+### My Favorite Things About CS 193
+Some of my favorite things about CS 193 are...
+
+-The instructors
+
+-The different aspects of CS that I will have an opportunity to learn and master 
+
+-The short quizzes
+
+-The cool things I get to do with programming
+
+-My amazing classmates 
+
 
 ### Something to Leave You With
 
